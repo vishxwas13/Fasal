@@ -1,3 +1,13 @@
+# Fasal
+https://fasal.co
+
+# About the project
+
+Open project: http://fasal-assignment.c1.biz/
+Open public link: https://fasal.netlify.app/
+
+Portfolio: https://www.vishxwas.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +79,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Fasal
+<img width="1440" alt="Screenshot 2022-07-14 at 1 15 18 AM" src="https://user-images.githubusercontent.com/78073978/178818981-309efa3c-6e52-499e-bff4-da62a5da6a37.png">
+
 # Fasal
+<img width="1440" alt="Screenshot 2022-07-14 at 1 15 23 AM" src="https://user-images.githubusercontent.com/78073978/178818997-e0d3c0ad-5d0c-45bf-91f4-7b4927d7d452.png">
+
+
 # Fasal
-# Fasal
+<img width="1440" alt="Screenshot 2022-07-14 at 1 17 14 AM" src="https://user-images.githubusercontent.com/78073978/178819033-ff67adf0-04e5-4e38-b099-8a9017610bfd.png">
